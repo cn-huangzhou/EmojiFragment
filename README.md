@@ -1,6 +1,6 @@
 # EmojiFragment
 表情、Emoji的开源、QQ、微信表情包
-![展示图片](https://raw.githubusercontent.com/negier/EmojiFragment/master/screenshots/S70207-15035441.jpg)
+<div align=center><img width="360" height="640" src="https://raw.githubusercontent.com/negier/EmojiFragment/master/screenshots/S70207-15035441.jpg" alt="展示图片"/></div>
 # 使用指南
 1. 修改表情大小：表情GridView Item的大小，默认32dp，可在item_gridview_emoji.xml和EmojiGridViewAdapter.java里修改，建议同时修改。
 2. 修改表情排列：表情默认3行7列，可在EmojiFragment里修改。
